@@ -1,0 +1,3 @@
+osgi-china
+==========
+This repository is mainly used for sharing code that is related to OSGi. We can post code here, and ask questions about the code, and provide ways to improve it. Exchange ideas, provide hints...
