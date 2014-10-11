@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-Version: 1.0.0
+Bundle-Name: DictQuery Web
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.lnsoft.query.dictQueryWeb
+Bundle-ClassPath: .,WEB-INF/classes
+Import-Package: com.lnsoft.yanfa.service;version="1.0.0",
+ javax.servlet,
+ javax.servlet.http,
+ org.eclipse.virgo.web.dm;version="[3.6.2.RELEASE,3.6.2.RELEASE]",
+ org.springframework.web.context;version="[3.1.0.RELEASE,3.1.0.RELEASE]",
+ org.springframework.web.context.support;version="[3.1.0.RELEASE,3.1.0.RELEASE]"
+Import-Library: org.springframework.spring;version="[3.1.0.RELEASE,3.1.0.RELEASE]"
+Web-ContextPath: dictQueryApp

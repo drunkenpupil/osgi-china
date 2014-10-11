@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-Version: 1.0.0
+Bundle-Name: Remote_DictQuery
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.lnsoft.query.remoteDictQuery
+Import-Package: com.lnsoft.yanfa.service
+Import-Library: org.springframework.spring;version="[3.1.0.RELEASE,3.1.0.RELEASE]"
+
