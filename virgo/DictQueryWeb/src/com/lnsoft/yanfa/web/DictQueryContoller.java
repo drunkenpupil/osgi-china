@@ -18,6 +18,7 @@ import com.lnsoft.yanfa.service.DictQueryService;
 @Controller
 public class DictQueryContoller {
 	@Resource
+    // todo: try using @Autowired
 	private DictQueryService dictQueryService ;
 
 	@RequestMapping({ "/", "/search" })

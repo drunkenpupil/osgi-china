@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Bundle-Version: 1.0.0
-Bundle-Name: DictQueryService
-Bundle-ManifestVersion: 2
-Bundle-SymbolicName: com.lnsoft.query.dictQueryService
-Export-Package: com.lnsoft.yanfa.service;version="1.0.0"
-
